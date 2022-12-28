@@ -1,0 +1,11 @@
+{
+    "name": "balashanmugam/api",
+    "description": "An class for making bigcommerce requests",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Balashanmugam\\Api\\": "src/"
+        }
+    },
+    "require": {}
+}
