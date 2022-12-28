@@ -10,5 +10,8 @@
     "require": {},
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "license":"MIT"
+    "license":"MIT",
+    "extra": {
+        "class": "Balashanmugam\\Api"
+    }
 }
